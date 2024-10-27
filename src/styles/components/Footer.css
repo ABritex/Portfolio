@@ -1,0 +1,30 @@
+.footer {
+  position: fixed;
+  left: 0;
+  right: 0;
+  bottom: 0;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding: 10px 10px;
+  color: #9c9c9c;
+  z-index: 1000;
+}
+
+.footer-text {
+  margin: 0; /* Remove default margin */
+}
+
+.social-links {
+  margin-top: 0; /* Remove top margin */
+}
+
+.social-links a {
+  color: #ffffff; /* White links */
+  margin: 0 10px; /* Space between links */
+  text-decoration: none; /* Remove underline */
+}
+
+.social-links a:hover {
+  text-decoration: underline; /* Underline on hover */
+}

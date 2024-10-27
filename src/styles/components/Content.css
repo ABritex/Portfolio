@@ -1,0 +1,23 @@
+.content-display {
+  width: 75%;
+  padding: 20px;
+  margin-left: 10px;
+  border: 1px solid #ccc;
+  box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);
+}
+
+.content-display h2 {
+  margin-top: 0;
+  color: #9c9c9c;
+}
+
+.content-display h3 {
+  margin-top: 20px;
+  color: #9c9c9c;
+}
+
+.content-display p {
+  font-size: 1rem;
+  line-height: 1.5;
+  color: #9c9c9c;
+}

@@ -1,0 +1,6 @@
+.app-container {
+  display: flex;
+  padding: 10px;
+  flex: 1;
+  height: 95vh;
+}
